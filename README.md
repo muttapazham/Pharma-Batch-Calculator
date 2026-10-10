@@ -1,1 +1,0 @@
-# Pharma-Batch-Calculator
